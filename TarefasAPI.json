@@ -3,5 +3,10 @@
     "descricao": "Treinar Ombro",
     "status": "Pendente",
     "prazo": "31/03/2025"
+  },
+  {
+    "descricao": "Pagar IPVA",
+    "status": "Pendente",
+    "prazo": "10/04/2025"
   }
 ]
